@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PR-Volt/static/css/main.f855e6bc.css",
+    "main.js": "/PR-Volt/static/js/main.c101dc48.js",
+    "static/js/453.68693753.chunk.js": "/PR-Volt/static/js/453.68693753.chunk.js",
+    "index.html": "/PR-Volt/index.html",
+    "main.f855e6bc.css.map": "/PR-Volt/static/css/main.f855e6bc.css.map",
+    "main.c101dc48.js.map": "/PR-Volt/static/js/main.c101dc48.js.map",
+    "453.68693753.chunk.js.map": "/PR-Volt/static/js/453.68693753.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c101dc48.js"
+  ]
+}
